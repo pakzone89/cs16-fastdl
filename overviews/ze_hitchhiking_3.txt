@@ -1,0 +1,14 @@
+// overview description file for ze_hitchhiking_2.bsp
+
+global 
+{
+	ZOOM	0.88
+	ORIGIN  -266   -72.56 	26.50
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/ze_hitchhiking_2.bmp"
+	HEIGHT	-3401
+}
