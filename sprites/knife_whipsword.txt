@@ -1,3 +1,0 @@
-2
-weapon	640	 knife_whipsword	0	0	170	45
-weapon_s	640	 knife_whipsword	0	0	170	45
